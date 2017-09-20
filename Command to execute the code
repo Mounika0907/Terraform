@@ -1,0 +1,9 @@
+brew install terraform - To install Terraform 
+
+which terrafrom - This command tells you the path of the terraform
+
+After this write the code using the editor and run the following commnads
+
+terraform plan - This command gives you the brief description of what the code is going to perform 
+
+terraform apply - This command creates the resources mentioned in the code. 
